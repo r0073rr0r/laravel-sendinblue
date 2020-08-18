@@ -1,13 +1,13 @@
 {
-    "name": "webup/laravel-sendinblue",
+    "name": "r0073rr0r/laravel-sendinblue",
     "description": "Laravel's mail transport for SendinBlue",
     "keywords": ["laravel", "laravel5", "laravel7", "lumen", "sendinblue", "stmp", "mailing"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Baptiste Ducatel",
-            "email": "baptiste@agence-webup.com",
-            "homepage": "http://agence-webup.com",
+            "name": "Velimir Majstorov",
+            "email": "majstorov@gmail.com",
+            "homepage": "https://majstorov.info",
             "role": "Developer"
         }
     ],
